@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adlashruthi.github.io/csb-jshv0h/static/css/main.2a9eb823.chunk.css",
+    "main.js": "https://adlashruthi.github.io/csb-jshv0h/static/js/main.853492be.chunk.js",
+    "main.js.map": "https://adlashruthi.github.io/csb-jshv0h/static/js/main.853492be.chunk.js.map",
+    "runtime-main.js": "https://adlashruthi.github.io/csb-jshv0h/static/js/runtime-main.0e1186cc.js",
+    "runtime-main.js.map": "https://adlashruthi.github.io/csb-jshv0h/static/js/runtime-main.0e1186cc.js.map",
+    "static/js/2.9b7aa0b1.chunk.js": "https://adlashruthi.github.io/csb-jshv0h/static/js/2.9b7aa0b1.chunk.js",
+    "static/js/2.9b7aa0b1.chunk.js.map": "https://adlashruthi.github.io/csb-jshv0h/static/js/2.9b7aa0b1.chunk.js.map",
+    "index.html": "https://adlashruthi.github.io/csb-jshv0h/index.html",
+    "static/css/main.2a9eb823.chunk.css.map": "https://adlashruthi.github.io/csb-jshv0h/static/css/main.2a9eb823.chunk.css.map",
+    "static/js/2.9b7aa0b1.chunk.js.LICENSE.txt": "https://adlashruthi.github.io/csb-jshv0h/static/js/2.9b7aa0b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e1186cc.js",
+    "static/js/2.9b7aa0b1.chunk.js",
+    "static/css/main.2a9eb823.chunk.css",
+    "static/js/main.853492be.chunk.js"
+  ]
+}
